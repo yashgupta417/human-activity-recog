@@ -1,5 +1,5 @@
 # human-activity-recog
-The task was to classify human activity like walking, standing, walking, walking down, walking up, laying. using signals generated from sensors like accelerometer and gyroscope.
+We are given signals generated from mobile sensors like accelerometer and gyroscope, Our task is to classify them into human activity like walking, standing, walking, walking down, walking up, laying.<br>
 We made both traditional ML models and Deep learning models ,then analyzed them on basis of accuracy and other parameters.
 
 <h2>Machine Learning Models</h2>
