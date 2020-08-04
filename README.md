@@ -31,8 +31,8 @@ Training Time:0:06:43.979135	Accuracy:93.92602646759416
 <br><br>
 <h2>Deep Learning Models</h2>
 Here we used original signals by transforming them using sliding window technique with window size of 2.56sec and 50% overlap.
-
-Model Architecture:
+<br><br>
+<h3>Model Architecture:</h3>
 2 LSTM layers------------>Dropout layer--------->Softmax layer for classification
 
 Accuracy:91.45%
