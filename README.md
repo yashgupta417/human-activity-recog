@@ -3,7 +3,7 @@ We are given signals generated from mobile sensors like accelerometer and gyrosc
 We made both traditional ML models and Deep learning models ,then analyzed them on basis of accuracy and other parameters.
 
 <h2>Machine Learning Models</h2>
-For these models, we used hand made features engineering by domain experts.<br><br>
+For these models, we used hand made features engineered by domain experts.<br><br>
 
 <h3>Logistic Regression</h3>
 Accuracy:96.19952494061758
